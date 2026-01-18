@@ -33,12 +33,12 @@ A RuneLite plugin that highlights grimy herbs based on whether you have the Herb
 | Irit | 40 |
 | Avantoe | 48 |
 | Kwuarm | 54 |
+| Huasca | 58 |
 | Snapdragon | 59 |
 | Cadantine | 65 |
 | Lantadyme | 67 |
 | Dwarf Weed | 70 |
 | Torstol | 75 |
-| Huasca | 85 |
 
 ## Installation
 

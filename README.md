@@ -11,10 +11,6 @@ A RuneLite plugin that highlights grimy herbs based on whether you have the Herb
 - Fully configurable colors
 - Toggle highlights for cleanable/uncleanable herbs separately
 
-## Screenshots
-
-![Plugin in action](https://i.imgur.com/placeholder.png)
-
 ## Configuration
 
 | Option | Description |
